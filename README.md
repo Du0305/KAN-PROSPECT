@@ -8,3 +8,6 @@ An AI-driven framework for large-scale prediction of pharmacological effects and
 - rdkit == 2024.03.2
 - matplotlib == 3.9.2
 - networkx == 3.2.1
+
+# Contact
+If you have any questions or suggestions with the code, please let us know.
